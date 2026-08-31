@@ -1,0 +1,2 @@
+This is my first Git practical file.
+Git is a distributed version control system.
